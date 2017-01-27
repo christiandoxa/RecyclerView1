@@ -5,6 +5,7 @@
 
 ### Screenshot Aplikasi
 <img src="https://github.com/zhergiuz/RecyclerView1/blob/master/1.png" width="30%" height="30%">
+<img src="https://github.com/zhergiuz/RecyclerView1/blob/master/2.png" width="30%" height="30%">
 <br>
 
 ### Identitas
